@@ -1,6 +1,6 @@
 <!-- Presentation -->
 # 💫 About Me:
-Olá! Eu sou o Wallace!.<br><br>🌱 Atualmente estou estudando Java<br><br>🔭 Procurando uma oportunidade de trabalho como Desenvolvedor back-end
+Olá! Eu sou o Wallace!<br><br>🌱 Atualmente estou estudando Java<br><br>🔭 Procurando uma oportunidade de trabalho como Desenvolvedor back-end
 
 <!-- Dropdown -->
 <details>
